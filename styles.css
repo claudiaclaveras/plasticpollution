@@ -1,0 +1,6 @@
+body {background: black;}
+h1 {font-size: 50px; color: white; font-family: 'verdana'; margin-left: 30px;}
+p {color: white; font-family: verdana; font-size: 20px; margin-left: 30px;}
+img {border: 15pt; border-color: white; margin-left: 30px;}
+ul {color: white; font-size: 30px; margin-left: 30px;}
+<audio autoplay>
